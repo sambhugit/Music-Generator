@@ -1,0 +1,70 @@
+body {
+ background-image: url("bg.jpg");
+ background-color: #cccccc;
+}
+* {
+  margin:20px;
+  padding:4px;
+  background:;
+  font-family: cursive;
+}
+
+*.text1{
+position: absolute;
+width: 500px;
+height: 100px;
+left: 102px;
+top: 102px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 88px;
+color: #FFFFFF;
+}
+
+*.text2{
+position: absolute;
+width: 350px;
+height: 100px;
+left: 102px;
+top: 400px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 59px;
+color: #FFFFFF;
+}
+
+*.text3{
+position: absolute;
+width: 377px;
+height: 44px;
+left: 806px;
+top: 102px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 44px;
+color: #FFFFFF;
+}
+
+*.input1{
+width: 600px;
+height: 40px;
+left: 806px;
+top: 299px;
+}
+
+*.input2{
+width: 120px;
+height: 44px;
+left: 1200px;
+top: 102px;
+}
+}
