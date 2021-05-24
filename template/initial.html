@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" contents="width=device-width,initial-scale=1.0">
+	<title>MUSIC GENERATOR</title>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/style.css') }}">
+</head>
+<body>
+    <div class="text1">
+       <p>MUSIC LYRIC GENERATOR.</P>
+    </div>
+    <div class="text2">
+        <p>CREATE YOUR OWN MUSIC LYRICS.</P>
+    </div>
+    <form class="text3" action='/predict' method = "post">
+        <p>Gimme some words</P>
+        seed<input name = "seed" class='input1' type="text"><br>
+        <input class='input2' type="submit">
+    </form>
+    </div>
+</body>
+</html>
