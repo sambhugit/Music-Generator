@@ -10,11 +10,11 @@ BFH/recdxdGbDrmVeqTUH/2021
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1. Step 1
-2. Step 2
+The dataset contain the lyrics (malayalam lyrics written in english) of various Sithara songs. After preprocessing the dataset, it is used to train a lstm generator model and weight file is saved in 'Model' directory. The model can be inferred either by running inference.py in a python interface or by running flask API ( app.py ) which creates a web interface
 ## Libraries used
 flask == 2.0.1  
-numpy == 1.19.5      
+numpy == 1.19.5  
+sklearn    
 tensorflow == 2.2.0    
 keras == 2.5.0
 
