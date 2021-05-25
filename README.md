@@ -17,7 +17,8 @@ flask == 2.0.1
 numpy == 1.19.5  
 sklearn    
 tensorflow == 2.2.0    
-keras == 2.5.0  
+keras == 2.5.0
+**Requires python 3.6 or higher**
 
 ## How to configure
 Instructions for setting up project
