@@ -13,13 +13,11 @@ BFH/recdxdGbDrmVeqTUH/2021
 1. Step 1
 2. Step 2
 ## Libraries used
-flask 
-pandas  
-numpy   
+flask == 2.0.1  
+numpy == 1.19.5  
 sklearn    
-matlpotlib    
-gunicorn  
-seaborn  
+tensorflow == 2.2.0    
+keras == 2.5.0  
 
 ## How to configure
 Instructions for setting up project
