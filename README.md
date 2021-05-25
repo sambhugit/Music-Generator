@@ -9,7 +9,7 @@ Wanna get new songs to jam to ? Here's your virtual lyricist to help you. Just t
 ## Team Id
 BFH/recdxdGbDrmVeqTUH/2021
 ## Link to product walkthrough
-code : https://www.loom.com/share/367350c965f14c778f9f5a0f3806082c
+code : https://www.loom.com/share/367350c965f14c778f9f5a0f3806082c  
 live demo : https://www.loom.com/share/8688a7e157644b91936324b164c3ad80
 ## How it Works ?
 The dataset contains the lyrics (malayalam lyrics written in english) of various Sithara songs. After preprocessing the dataset, it is used to train a lstm generator model and weight file is saved in 'Model' directory. The model can be inferred either by running inference.py in a python interface or by running flask API ( app.py ) which creates a web interface
