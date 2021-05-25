@@ -14,8 +14,7 @@ BFH/recdxdGbDrmVeqTUH/2021
 2. Step 2
 ## Libraries used
 flask == 2.0.1  
-numpy == 1.19.5  
-sklearn    
+numpy == 1.19.5      
 tensorflow == 2.2.0    
 keras == 2.5.0
 
