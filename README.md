@@ -22,10 +22,11 @@ keras == 2.5.0
 **Requires python 3.6 or higher**
 
 ## How to configure
-1.Clone this repository by running $ git clone https://github.com/sambhugit/Music-Generator or download the files.
-2.Open terminal and then Run command "pip install -r requirements.txt" for installing the required packages.
+1.Clone this repository by running $ git clone https://github.com/sambhugit/Music-Generator or download the files.  
+2.Open terminal and then Run command "pip install -r requirements.txt" for installing the required packages.  
+
 ## How to Run
-1.Open terminal and run "python app.py" or "inference.py"
+1.Open terminal and run "python app.py" or "python inference.py"  
 2.A webpage pops up. Enter few words as seed and click submitto get your lyrics.
 
 
