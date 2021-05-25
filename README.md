@@ -13,13 +13,13 @@ BFH/recdxdGbDrmVeqTUH/2021
 1. Step 1
 2. Step 2
 ## Libraries used
-flask
-pandas
-numpy
-sklearn
-matlpotlib
-gunicorn
-seaborn
+flask 
+pandas 
+numpy 
+sklearn 
+matlpotlib 
+gunicorn 
+seaborn 
 
 ## How to configure
 Instructions for setting up project
