@@ -1,6 +1,6 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Music-Generator
-Wanna get new songs to jam to ? Here's your virtual lyricist to help you. Just type in a few words and get lyrics of Manglish songs similar to those of singer Sithara. He's still learning, so keep in mind that the words you enter are in the **Wordlist.txt** file. Go crazy.
+Wanna get new songs to jam to ? Here's your virtual lyricist to help you. Just type in a few words and get lyrics (malayalam lyrics written in english) of songs similar to those of singer Sithara. He's still learning, so keep in mind that the words you enter are in the **Wordlist.txt** file. Go crazy.
 
 ## Team members
 1. Sambhu Nampoothiri G [https://github.com/sambhugit]
